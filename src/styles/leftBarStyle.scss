@@ -1,0 +1,18 @@
+.left-bar {
+  display: block;
+  padding: 20px 20px;
+  position: fixed;
+  top: 30%;
+  background-color: #131313;
+  border-radius: 0px 10px 10px 0px;
+  ul li{
+    margin-top: 20px;
+    a{
+      display: flex;
+      font-size: 13px;
+      span{
+        margin-left: 10px;
+      }
+    }
+  }
+}

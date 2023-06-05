@@ -1,0 +1,14 @@
+.nav-bar{
+  background-color: #242424;
+}
+
+.nav-bar-main{
+  display: flex;
+  padding: 10px 0px;
+  align-items: center;
+  justify-content: space-between;
+  input{
+    font-size: 12px;
+    align-items: center;
+  }
+}
