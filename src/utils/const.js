@@ -14,4 +14,4 @@ export const ADD_ALBUM = '/panel/addAlbum'
 export const ADD_SERVICE = '/panel/addService'
 export const ERROR = '*'
 
-export const REACT_APP_API_URL = 'http://45.147.176.80:5050/'
+export const REACT_APP_API_URL = 'http://45.147.176.80:8080/'
